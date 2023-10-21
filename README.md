@@ -1,5 +1,3 @@
-Certainly! Here's a professional version of your GitHub README:
-
 ---
 
 # Sunbase Data API
